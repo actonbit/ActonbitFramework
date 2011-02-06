@@ -1,0 +1,79 @@
+PHP Data Objects (PDO) License Agreement (version 1)
+
+This License governs your use of the accompanying Software.  If you use the Software, you 
+accept this License.  If you do not accept this License, do not use the Software.
+
+1.  Definitions.
+
+“Contributions” means any work of authorship incorporated within the Software, including any 
+modifications or additions to Contributions that have been previously incorporated within the 
+Software.
+“Contributor” means any individual or legal entity that has submitted Contributions which have
+been previously incorporated within the Software.  
+“License” means this PHP Data Objects (PDO) License Agreement (version 1).
+“PHP Group” means the group of individuals that has volunteered to serve the role of accepting 
+contributor license agreements and any corresponding Contributions incorporated into the 
+original distribution of this PDO software.  You can learn more about the PHP Group at 
+http://www.XXXX.   The PHP Group can be contacted at group@php.net.
+“Software” means the specific distribution of software, whether in source code or binary format, 
+and its related documentation made available to you under this License.
+  
+2.  Subject to the terms and conditions of this License, each Contributor hereby grants to you a 
+perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to 
+reproduce, create derivative works of, publicly display, publicly perform, and distribute its 
+Contributions and any derivative works of those Contributions that you create.
+
+3.  Subject to the terms and conditions of this License, each Contributor hereby grants to you a 
+perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this 
+section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer 
+its Contributions only as part of the Software, provided that this license extends only to those 
+patent claims licensable by such Contributor, without payment to any third party, that are 
+necessarily infringed by one or more of its Contributions, alone or in combination with the
+specific distribution of the Software to which those Contributions were made.  If you institute 
+patent litigation against any Contributor (including a cross-claim or counterclaim in a lawsuit) 
+alleging that the use or distribution of the Software, in whole or in part, constitutes direct or 
+contributory patent infringement, then any patent licenses granted to you under this License by 
+that Contributor will terminate as of the date such litigation is filed.
+
+4.  You may reproduce and distribute copies of the Software, with or without modifications, and 
+in source code or binary form, provided that you meet the following conditions: 
+
+    a. Redistributions of the Software in source code form must retain this License in its 
+entirety; and 
+
+    b. Redistributions of the Software in binary form must reproduce this License in its entirety 
+in the documentation or other materials provided with the redistribution.
+You may add your copyright statement to your modifications and may provide additional or 
+different license terms and conditions for use, reproduction, or distribution of your modifications, 
+provided that your use, reproduction, and distribution of the Software otherwise complies with 
+the conditions stated in this License.
+ 
+5.  You may not use without the prior written authorization of the relevant Contributor(s) (a) the 
+name of the PHP Group or any Contributor in any advertising or other materials to promote the 
+sale, use or other dealings in the Software or (b) the trade names, trademarks, service marks, or 
+product names of any Contributor.
+
+6.  Subject to the licenses granted in this License, each Contributor retains all right, title, and 
+interest in and to its Contributions.
+  
+7.  The PHP Group may publish revised and/or new versions of this License from time to time. 
+Each version will be given a distinguishing version number.  Once covered software code has 
+been distributed under a particular version of this License, you may always continue to use that 
+code under the terms and conditions of that version. You may also choose to use such covered 
+code under the terms and conditions of any subsequent version of this License published by the 
+PHP Group. No one other than the PHP Group has the right to modify the terms applicable to 
+covered code distributed under this License.
+
+8.  THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND 
+NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+ 
+9.  IN NO EVENT WILL THE PHP GROUP OR ANY CONTRIBUTOR BE LIABLE FOR 
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT 
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR 
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
