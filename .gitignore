@@ -1,6 +1,11 @@
 # Ignore everything in .settings folder, this is Aptana stuff there.
-.settings/**/*
+.settings/
 
 # More Aptana stuff below .. 
 .project
 .buildpath
+
+# MACOSX stuff
+.DS_Store
+
+
